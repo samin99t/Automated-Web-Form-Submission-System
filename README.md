@@ -15,7 +15,7 @@ Input Fields:
   "Tell us a bit about yourself" text area
   
 User Preferences:
-  Age selection buttons
+  Age selection button
   Date selection calendar
   
 Attachments:
